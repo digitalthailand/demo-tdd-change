@@ -1,0 +1,15 @@
+d:\t3mp\g\demotdd\democlasslib.tests\obj\Debug\netcoreapp2.0\democlasslib.tests.csproj.CoreCompileInputs.cache
+d:\t3mp\g\demotdd\democlasslib.tests\obj\Debug\netcoreapp2.0\democlasslib.tests.AssemblyInfoInputs.cache
+d:\t3mp\g\demotdd\democlasslib.tests\obj\Debug\netcoreapp2.0\democlasslib.tests.AssemblyInfo.cs
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\democlasslib.tests.deps.json
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\democlasslib.tests.runtimeconfig.json
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\democlasslib.tests.runtimeconfig.dev.json
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\democlasslib.tests.dll
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\democlasslib.tests.pdb
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\democlasslib.dll
+d:\t3mp\g\demotdd\democlasslib.tests\bin\Debug\netcoreapp2.0\democlasslib.pdb
+d:\t3mp\g\demotdd\democlasslib.tests\obj\Debug\netcoreapp2.0\democlasslib.tests.dll
+d:\t3mp\g\demotdd\democlasslib.tests\obj\Debug\netcoreapp2.0\democlasslib.tests.pdb

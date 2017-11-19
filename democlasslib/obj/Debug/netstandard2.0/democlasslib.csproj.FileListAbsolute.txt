@@ -1,0 +1,8 @@
+d:\t3mp\g\demotdd\democlasslib\bin\Debug\netstandard2.0\democlasslib.deps.json
+d:\t3mp\g\demotdd\democlasslib\bin\Debug\netstandard2.0\democlasslib.dll
+d:\t3mp\g\demotdd\democlasslib\bin\Debug\netstandard2.0\democlasslib.pdb
+d:\t3mp\g\demotdd\democlasslib\obj\Debug\netstandard2.0\democlasslib.csproj.CoreCompileInputs.cache
+d:\t3mp\g\demotdd\democlasslib\obj\Debug\netstandard2.0\democlasslib.AssemblyInfoInputs.cache
+d:\t3mp\g\demotdd\democlasslib\obj\Debug\netstandard2.0\democlasslib.AssemblyInfo.cs
+d:\t3mp\g\demotdd\democlasslib\obj\Debug\netstandard2.0\democlasslib.dll
+d:\t3mp\g\demotdd\democlasslib\obj\Debug\netstandard2.0\democlasslib.pdb

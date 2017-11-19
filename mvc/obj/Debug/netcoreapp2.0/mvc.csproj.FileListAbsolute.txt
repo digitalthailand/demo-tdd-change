@@ -1,0 +1,10 @@
+D:\t3mp\g\demotdd\mvc\bin\Debug\netcoreapp2.0\mvc.deps.json
+D:\t3mp\g\demotdd\mvc\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.json
+D:\t3mp\g\demotdd\mvc\bin\Debug\netcoreapp2.0\mvc.runtimeconfig.dev.json
+D:\t3mp\g\demotdd\mvc\bin\Debug\netcoreapp2.0\mvc.dll
+D:\t3mp\g\demotdd\mvc\bin\Debug\netcoreapp2.0\mvc.pdb
+D:\t3mp\g\demotdd\mvc\obj\Debug\netcoreapp2.0\mvc.csproj.CoreCompileInputs.cache
+D:\t3mp\g\demotdd\mvc\obj\Debug\netcoreapp2.0\mvc.AssemblyInfoInputs.cache
+D:\t3mp\g\demotdd\mvc\obj\Debug\netcoreapp2.0\mvc.AssemblyInfo.cs
+D:\t3mp\g\demotdd\mvc\obj\Debug\netcoreapp2.0\mvc.dll
+D:\t3mp\g\demotdd\mvc\obj\Debug\netcoreapp2.0\mvc.pdb
