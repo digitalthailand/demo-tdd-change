@@ -1,0 +1,8 @@
+D:\t3mp\d\demo-tdd-change\democlasslib\bin\Debug\netstandard1.1\democlasslib.deps.json
+D:\t3mp\d\demo-tdd-change\democlasslib\bin\Debug\netstandard1.1\democlasslib.dll
+D:\t3mp\d\demo-tdd-change\democlasslib\bin\Debug\netstandard1.1\democlasslib.pdb
+D:\t3mp\d\demo-tdd-change\democlasslib\obj\Debug\netstandard1.1\democlasslib.csproj.CoreCompileInputs.cache
+D:\t3mp\d\demo-tdd-change\democlasslib\obj\Debug\netstandard1.1\democlasslib.AssemblyInfoInputs.cache
+D:\t3mp\d\demo-tdd-change\democlasslib\obj\Debug\netstandard1.1\democlasslib.AssemblyInfo.cs
+D:\t3mp\d\demo-tdd-change\democlasslib\obj\Debug\netstandard1.1\democlasslib.dll
+D:\t3mp\d\demo-tdd-change\democlasslib\obj\Debug\netstandard1.1\democlasslib.pdb
