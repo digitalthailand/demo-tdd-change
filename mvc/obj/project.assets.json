@@ -4746,6 +4746,19 @@
         "runtime": {
           "lib/netstandard1.3/Microsoft.WindowsAzure.Storage.dll": {}
         }
+      },
+      "democlasslib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.1",
+        "dependencies": {
+          "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "bin/placeholder/democlasslib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/democlasslib.dll": {}
+        }
       }
     }
   },
@@ -12524,12 +12537,18 @@
         "windowsazure.storage.8.1.4.nupkg.sha512",
         "windowsazure.storage.nuspec"
       ]
+    },
+    "democlasslib/1.0.0": {
+      "type": "project",
+      "path": "../democlasslib/democlasslib.csproj",
+      "msbuildProject": "../democlasslib/democlasslib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.0",
-      "Microsoft.NETCore.App >= 2.0.0"
+      "Microsoft.NETCore.App >= 2.0.0",
+      "democlasslib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -12538,12 +12557,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "D:\\t3mp\\g\\demotdd\\mvc\\mvc.csproj",
+      "projectUniqueName": "D:\\t3mp\\d\\demo-tdd-change\\mvc\\mvc.csproj",
       "projectName": "mvc",
-      "projectPath": "D:\\t3mp\\g\\demotdd\\mvc\\mvc.csproj",
+      "projectPath": "D:\\t3mp\\d\\demo-tdd-change\\mvc\\mvc.csproj",
       "packagesPath": "C:\\Users\\One\\.nuget\\packages\\",
-      "outputPath": "D:\\t3mp\\g\\demotdd\\mvc\\obj\\",
+      "outputPath": "D:\\t3mp\\d\\demo-tdd-change\\mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12562,7 +12584,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\t3mp\\d\\demo-tdd-change\\democlasslib\\democlasslib.csproj": {
+              "projectPath": "D:\\t3mp\\d\\demo-tdd-change\\democlasslib\\democlasslib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
